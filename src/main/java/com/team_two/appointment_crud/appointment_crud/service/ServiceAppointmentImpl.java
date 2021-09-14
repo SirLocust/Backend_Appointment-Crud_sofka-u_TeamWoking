@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class ServiceAppointment implements ServiceAppointmentImpl {
+public class ServiceAppointment1 implements ServiceAppointmentImpl {
     @Autowired
     private ServiceAppointmentImpl service;
     @Override
