@@ -1,7 +1,6 @@
 package com.team_two.appointment_crud.appointment_crud.service;
 import com.team_two.appointment_crud.appointment_crud.entity.Appointment;
-import com.team_two.appointment_crud.appointment_crud.service.ServiceAppointment;
-import com.team_two.appointment_crud.appointment_crud.Repository.RepositoryAppointment;
+import com.team_two.appointment_crud.appointment_crud.repository.RepositoryAppointment;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

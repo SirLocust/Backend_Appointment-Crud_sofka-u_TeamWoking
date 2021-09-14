@@ -1,4 +1,4 @@
-package com.team_two.appointment_crud.appointment_crud.Repository;
+package com.team_two.appointment_crud.appointment_crud.repository;
 
 import com.team_two.appointment_crud.appointment_crud.entity.Appointment;
 import org.springframework.data.repository.CrudRepository;
