@@ -22,7 +22,6 @@ public class ServiceAppointmentImpl implements ServiceAppointment{
     public Appointment Save(Appointment appointment){
         return repository.save(appointment);
     }
-
     @Override
     public void Delete(Long id){
         repository.deleteById(id);
